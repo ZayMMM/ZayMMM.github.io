@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zay Maung Maung Myint</h1>
+<h1 align="center">Hi 😎, I'm Zay Maung Maung Myint</h1>
 <h3 align="center">A passionate backend developer from Myanmar.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaymmm&label=Profile%20views&color=0e75b6&style=flat" alt="zaymmm" /> </p>
@@ -12,8 +12,6 @@
 - 👯 I’m looking to collaborate on **Global Project**
 
 - 👨‍💻 All of my projects are available at [https://zaymmm.github.io/](https://zaymmm.github.io/)
-
-- 📝 I regularly write articles on [https://zaymmm.github.io/](https://zaymmm.github.io/)
 
 - 💬 Ask me about **Java, Spring, MySQL, OracelSQL, HTML, CSS, Javascript, JQuery**
 
